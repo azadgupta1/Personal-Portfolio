@@ -8,3 +8,5 @@ PostgreSQL
 Nodejs
 Expressjs
 
+
+Using LinkedIn API's to automate the new role 
